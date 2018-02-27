@@ -8,3 +8,4 @@
   commentSectionHeader: '<div>질문? <a href="http://stackoverflow.com/questions/tagged/webgl">StackOverflow에서 질문하기</a>.</div>\n        <div>이슈/버그? <a href="http://github.com/greggman/webgl-fundamentals/issues">github에서 이슈 만들기</a>.</div>',
   missing: "죄송합니다. 이 문서는 아직 번역되지 않았습니다. [번역을 도와주세요!](https://github.com/greggman/webgl-fundamentals)! 😄\n\n[영어 원문으로 보기]({{{origLink}}}).",
   toc: '목차',
+}
